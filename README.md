@@ -1,4 +1,4 @@
-# Sia Open Doc
+# Sia Open Docs
 
 ## What It Is
 Sia Open Doc is an open-source platform designed to revolutionize secure digital document signing by harnessing the power of the Sia Network’s decentralized storage. Unlike traditional services like *DocuSign*, Sia Open Doc offers a privacy-focused, user-controlled alternative where you can upload, sign, and manage documents securely in a decentralized environment. It combines Sia Renterd for storage, cryptographic signatures for security, and AI tools to streamline document preparation—all wrapped in an accessible, open-source package.
