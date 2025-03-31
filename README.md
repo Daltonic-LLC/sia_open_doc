@@ -1,63 +1,23 @@
-# AI Scraper Knowledge-Base
+# Sia Open Doc
 
-## Overview
+## What It Is
+Sia Open Doc is an open-source platform designed to revolutionize secure digital document signing by harnessing the power of the Sia Network’s decentralized storage. Unlike traditional services like *DocuSign*, Sia Open Doc offers a privacy-focused, user-controlled alternative where you can upload, sign, and manage documents securely in a decentralized environment. It combines Sia Renterd for storage, cryptographic signatures for security, and AI tools to streamline document preparation—all wrapped in an accessible, open-source package.
 
-AI Scraper Knowledge-Base is a revolutionary customer management platform that transforms how businesses interact with and manage their information and customer communications.
+## Key Features
+Here’s what makes Sia Open Doc stand out:
 
-## Key Capabilities
+- **Decentralized Storage**: Your documents are stored on the Sia Network, a decentralized cloud platform, giving you full control and enhancing privacy—no centralized servers to worry about.
 
-### 1. Dynamic Knowledge Base 📚
-- Crawl and process content from multiple sources:
-  - Webpages
-  - PDFs
-  - Documents
-  - Code repositories
+- **Cryptographic Signatures**: Advanced cryptography ensures that every signature is authentic and every document’s integrity is verifiable, providing top-notch security.
 
-### 2. Smart Chat Engagement 💬
-- Multi-channel AI-powered conversational interfaces:
-  - Web chat
-  - Social media bots
-  - API-integrated chat systems
+- **AI-Assisted Document Preparation**: Built-in AI tools offer templates, automated suggestions, and assistance to make creating and managing documents faster and easier.
 
-### 3. Bot Integration 🤖
-- Seamless connections with:
-  - Telegram (messages, groups, channels)
-  - Discord
+- **Web Interface**: A simple, user-friendly web platform lets you upload, sign, and organize your documents with ease.
 
-## Features Highlights
+- **Open-Source**: The entire system is transparent and customizable, inviting community contributions to improve and innovate.
 
-### Knowledge-Base Crawler
-- Effortlessly build and maintain a dynamic, up-to-date knowledge repository
-- Intelligent content processing across diverse document types
+## Contact Details
+Want to learn more or have questions? Feel free to get in touch:  
+- **Email**: contact@daltonicllc.com  
+- **Website**: Daltonic LLC
 
-### Comprehensive Integration
-- API Endpoint Accessibility
-- Open-source LLM and embedding model support
-- Customizable AI solutions
-
-## Technical Specifications
-
-- **Platforms**: Web, Telegram, Discord
-- **AI Models**: Open-source LLM and embedding models
-- **Integration**: Comprehensive API endpoints
-
-## Getting Started
-
-### Prerequisites
-- Web browser
-- API access credentials (if applicable)
-- Telegram/Discord account (for bot integrations)
-
-### Quick Setup
-1. Visit our demo
-2. Explore integration options
-3. Contact our team for custom solutions
-
-## Contact & Support
-
-- **Website**: [Demo Link](https://knowledgebase.daltonicllc.com/)
-- **Email**: contact@daltonicllc.com
-- **Support**: Reach out via contact page
-
-## Licensing
-MIT
