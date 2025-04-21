@@ -1,23 +1,19 @@
-# Sia Open Docs
+# Sia Studio
 
 ## What It Is
-Sia Open Doc is an open-source platform designed to revolutionize secure digital document signing by harnessing the power of the Sia Network’s decentralized storage. Unlike traditional services like *DocuSign*, Sia Open Doc offers a privacy-focused, user-controlled alternative where you can upload, sign, and manage documents securely in a decentralized environment. It combines Sia Renterd for storage, cryptographic signatures for security, and AI tools to streamline document preparation—all wrapped in an accessible, open-source package.
+Sia Studio is an open-source, AI-driven video content creation platform built on the Sia Network’s decentralized storage infrastructure. Designed for social media creators, educators, marketers, and storytellers, Sia Studio simplifies the entire video production process—from story writing to animation—while ensuring privacy and user control. By integrating Sia Renterd for secure asset storage and AI tools for content generation, it offers a decentralized alternative to centralized video platforms, empowering creators to produce and manage professional-grade videos effortlessly.
 
-## Key Features
-Here’s what makes Sia Open Doc stand out:
+### Key Features
+Here’s what makes Sia Studio unique:  
 
-- **Decentralized Storage**: Your documents are stored on the Sia Network, a decentralized cloud platform, giving you full control and enhancing privacy—no centralized servers to worry about.
-
-- **Cryptographic Signatures**: Advanced cryptography ensures that every signature is authentic and every document’s integrity is verifiable, providing top-notch security.
-
-- **AI-Assisted Document Preparation**: Built-in AI tools offer templates, automated suggestions, and assistance to make creating and managing documents faster and easier.
-
-- **Web Interface**: A simple, user-friendly web platform lets you upload, sign, and organize your documents with ease.
-
-- **Open-Source**: The entire system is transparent and customizable, inviting community contributions to improve and innovate.
+- Complete Video Creation Pipeline: AI powers every step—story writing, scene generation, narration, storyboard creation, voice and background music generation, and scene animation—streamlining production for diverse formats.  
+- Decentralized Storage: Video assets, scripts, and storyboards are stored securely on the Sia Network via Sia Renterd, ensuring creator ownership and protection from centralized risks.  
+- AI-Driven Automation: Advanced AI generates scripts, visuals, voiceovers, and music tailored to your needs, making professional content accessible to all.  
+- User-Friendly Web Interface: An intuitive platform lets you create, edit, and manage videos with ease, designed for both novices and experts.  
+- Open-Source: Fully transparent and customizable, Sia Studio invites community contributions to enhance its capabilities and foster innovation.
 
 ## Contact Details
 Want to learn more or have questions? Feel free to get in touch:  
-- **Email**: contact@daltonicllc.com  
-- **Website**: Daltonic LLC
+- Email: contact@daltonicllc.com  
+- Website: [Daltonic LLC](https://daltonicllc.com/)
 
